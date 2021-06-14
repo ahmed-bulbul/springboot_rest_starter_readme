@@ -26,6 +26,7 @@ This is basic starter projet of spring boot rest api.
 20. SSL Commerz Integration <br>
 22. Verify after user registration <br>
 23. Every Exception handle perfectly Like MethodArgumentNotValidException, Custom Exception, Internal Server, Bad Request , everything hadled in perfect way. <br>
+24. Scheduler Implemented :: Every Monday :: 3:15 PM will be inserted attendance <br>
 
 ![1](https://user-images.githubusercontent.com/70557643/121800261-ba4e2480-cc52-11eb-8078-cb92cf96f01d.PNG)
 ![2](https://user-images.githubusercontent.com/70557643/121800292-d81b8980-cc52-11eb-9334-11811a229405.PNG)
